@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "リルラ リルハ",
+  "base_artist": "木村カエラ",
+  "createdAt": "2026-03-26T05:04:45.984114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リルラ リルハ",
+      "artist": "Kaela Kimura",
+      "has_synced": true,
+      "path": "select/01_リルラ_リルハ_Kaela_Kimura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リルラ リルハ",
+      "artist": "木村カエラ",
+      "has_synced": true,
+      "path": "select/02_リルラ_リルハ_木村カエラ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リルラ リルハ",
+      "artist": "木村カエラ",
+      "has_synced": true,
+      "path": "select/03_リルラ_リルハ_木村カエラ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リルラ リルハ",
+      "artist": "木村カエラ",
+      "has_synced": true,
+      "path": "select/04_リルラ_リルハ_木村カエラ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リルラ リルハ",
+      "artist": "Kaela Kimura",
+      "has_synced": true,
+      "path": "select/05_リルラ_リルハ_Kaela_Kimura.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リルラ リルハ",
+      "artist": "木村カエラ",
+      "has_synced": true,
+      "path": "select/06_リルラ_リルハ_木村カエラ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "リルラ リルハ(24bit/96kHz)",
+      "artist": "木村カエラ",
+      "has_synced": false,
+      "path": "select/07_リルラ_リルハ(24bit_96kHz)_木村カエラ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リルラ リルハ",
+      "artist": "木村 カエラ",
+      "has_synced": false,
+      "path": "select/pl_01_リルラ_リルハ_木村_カエラ.txt"
+    }
+  ]
+}
